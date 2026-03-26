@@ -15,7 +15,7 @@ https://atlas-landing-page-swart.vercel.app/
 
 ### 🖥️ Desktop
 
-![Preview Desktop](./images/desktop.png)
+![Preview Desktop](./images/preview-desktop.png)
 
 ---
 
@@ -23,11 +23,11 @@ https://atlas-landing-page-swart.vercel.app/
 
 #### Home
 
-![Mobile Home](./images/mobile-home.png)
+![Mobile Home](./images/preview-mobile-home.png)
 
 #### Menu (Interação)
 
-![Mobile Menu](./images/mobile-menu.png)
+![Mobile Menu](./images/preview-mobile-menu.png)
 
 ---
 

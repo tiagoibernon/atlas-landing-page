@@ -1,0 +1,17 @@
+{
+    "name": "Atlas Engenharia e Arquitetura",
+    "short_name": "Atlas",
+    "description": "Projetos residenciais e comerciais com planejamento, técnica e acompanhamento especializado.",
+    "lang": "pt-BR",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#f4efe6",
+    "theme_color": "#111111",
+    "icons": [
+        {
+            "src": "images/logo.png",
+            "sizes": "1563x1563",
+            "type": "image/png"
+        }
+    ]
+}

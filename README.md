@@ -102,8 +102,8 @@ cd atlas-landing-page
 
 Desenvolvido por **Tiago Ibernon**
 
-* GitHub: https://github.com/tiagoibernon
-* LinkedIn: https://www.linkedin.com/in/ibernontiago/
+- [GitHub](https://github.com/tiagoibernon)
+- [LinkedIn](https://www.linkedin.com/in/ibernontiago/)
 
 ---
 

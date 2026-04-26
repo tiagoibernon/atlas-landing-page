@@ -6,8 +6,7 @@ Landing page responsiva desenvolvida para a empresa **Atlas Engenharia e Arquite
 
 ## 🚀 Deploy
 
-🔗 Acesse o projeto online:
-https://atlas-landing-page-swart.vercel.app/
+🔗 [Acesse o projeto online](https://atlas-landing-page-swart.vercel.app/#servicos)
 
 ---
 
